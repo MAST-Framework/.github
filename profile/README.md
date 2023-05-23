@@ -1,4 +1,4 @@
-![Logo](profile/new-logo-base.svg)
+![The Project's logo should appear here](profile/new-logo-base.svg)
 
 ## Welcome to the MAST-Framework GitHub organization!
 
@@ -11,7 +11,7 @@ MAST-Framework (Mobile Application Static Testing Framework) is an open-source f
 
 ## Getting Started
 
-To get started with MAST-Framework, please visit our [Documentation](https://mast-framework.github.io/mast-f) page on Github. It provides detailed guides, installation instructions, and usage examples to help you utilize the framework effectively.
+To get started with MAST-Framework, please visit our [Documentation](https://mast-framework.github.io/MAST-F/) page on Github. It provides detailed guides, installation instructions, and usage examples to help you utilize the framework effectively.
 
 ## Key Features
 
@@ -29,7 +29,7 @@ Join the global discussion about MAST-Framework, share your ideas, ask questions
 
 ## Used Technologies
 
-A list of the used technologies and dependencies as well as their versions can be taken from [Documentation | Technologies](https://mast-framework.github.io/mast-f).
+A list of the used technologies and dependencies as well as their versions can be taken from [Documentation | Technologies](https://mast-framework.github.io/MAST-F/).
 
 
 We appreciate your interest in MAST-Framework and encourage you to contribute to its development. Feel free to explore the repository, open issues, submit pull requests, and participate in discussions to make MAST-Framework even better!
