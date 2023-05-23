@@ -1,4 +1,4 @@
-![Logo](new-logo-base.svg)
+![Logo](profile/new-logo-base.svg)
 
 ## Welcome to the MAST-Framework GitHub organization!
 
