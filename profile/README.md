@@ -29,7 +29,7 @@ Join the global discussion about MAST-Framework, share your ideas, ask questions
 
 ## Used Technologies
 
-A list of the used technologies and dependencies as well as their versions can be taken from [Documentation | Technologies](https://mast-framework.github.io/MAST-F/).
+A list of the used technologies and dependencies as well as their versions can be taken from [Documentation | Technologies](https://mast-framework.github.io/MAST-F/ref/technologies.html).
 
 
 We appreciate your interest in MAST-Framework and encourage you to contribute to its development. Feel free to explore the repository, open issues, submit pull requests, and participate in discussions to make MAST-Framework even better!
